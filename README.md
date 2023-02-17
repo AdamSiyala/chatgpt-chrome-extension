@@ -12,6 +12,7 @@ Then install dependencies
 
 ```bash
 npm install
+npm install chatgpt
 ```
 
 Copy `.env-example` into a new file named `.env` and add your ChatGPT API Key.
